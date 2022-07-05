@@ -1,0 +1,26 @@
+Build a personal website + blog
+
+Technologies
+Next.Js
+Prismic CMS
+Vercel Hosting
+Git
+Required Sections
+Home
+About Me
+What languages can you use etc?
+Short list of blog posts/projects, 3 of each
+Blog
+Projects
+Working with Git properly
+https://docs.github.com/en/get-started/quickstart/github-flow
+TLDR: you should have
+ a main/master branch for what is currently shown on your hosted site
+A dev branch used to test new features before they go live
+A branch for each feature you work 
+Commit messages should follow this: https://www.conventionalcommits.org/en/v1.0.0/
+UI - dont bother making everything yourself use either
+https://tailwindcss.com/
+https://chakra-ui.com/
+Create the repo on Github from the start and add me to every pull request, and I will review them, my Github username is @neeleshj 
+Use typescript if you want
